@@ -189,6 +189,8 @@ Invited and managed an external guest (B2B) user.
 
 ---
 
+Author Darwin Brown Jr.
+
 # Outcome
 
 Successfully completed a hands-on Microsoft Entra ID administration lab demonstrating practical experience with cloud identity management, user administration, authentication, access control, and Microsoft 365 security features commonly used by Help Desk, System Administrator, and SOC Analyst professionals.
