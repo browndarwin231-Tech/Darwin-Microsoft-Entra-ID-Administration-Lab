@@ -97,7 +97,7 @@ Created a Microsoft 365 Group for collaboration.
 
 **Screenshot**
 
-![Microsoft 365 Group](screenshots/06-microsoft365-group.png)
+![Microsoft 365 Group](screenshots/06-microsoft-365-group.png)
 
 ---
 
