@@ -101,14 +101,13 @@ Created a Microsoft 365 Group for collaboration.
 
 ---
 
-## 7. Multifactor Authentication (MFA)
+## 7. Devices Overview
 
 Configured Multifactor Authentication for user accounts.
 
 **Screenshot**
 
-![MFA](screenshots/07-mfa.png)
-
+![Devices Overview](screenshots/07-devices-overview.png)
 ---
 
 ## 8. All Devices
@@ -117,7 +116,7 @@ Created a Conditional Access policy to improve security.
 
 **Screenshot**
 
-![Conditional Access](screenshots/08-all-devices.png)
+![All Devices](screenshots/08-all-devices.png)
 
 ---
 
@@ -127,7 +126,7 @@ Reviewed Microsoft Entra sign-in logs for authentication events.
 
 **Screenshot**
 
-![Sign-in Logs](screenshots/09-devices-settings.png)
+![Device Settings](screenshots/09-device-settings.png)
 
 ---
 
@@ -147,7 +146,7 @@ Assigned an administrative role to a user.
 
 **Screenshot**
 
-![Role Assignment](screenshots/11-roles-and-administration.png)
+![Audit Logs](screenshots/10-audit-logs.png)
 
 ---
 
@@ -157,7 +156,7 @@ Invited and managed an external guest (B2B) user.
 
 **Screenshot**
 
-![Guest User](screenshots/12-groups-overview.png)
+![Groups Overview](screenshots/12-groups-overview.png)
 
 ---
 
