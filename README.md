@@ -111,23 +111,23 @@ Configured Multifactor Authentication for user accounts.
 
 ---
 
-## 8. Conditional Access Policy
+## 8. All Devices
 
 Created a Conditional Access policy to improve security.
 
 **Screenshot**
 
-![Conditional Access](screenshots/08-conditional-access.png)
+![Conditional Access](screenshots/08-all-devices.png)
 
 ---
 
-## 9. Sign-in Logs
+## 9. Device Settings
 
 Reviewed Microsoft Entra sign-in logs for authentication events.
 
 **Screenshot**
 
-![Sign-in Logs](screenshots/09-signin-logs.png)
+![Sign-in Logs](screenshots/09-devices-settings.png)
 
 ---
 
@@ -141,23 +141,23 @@ Reviewed audit logs to monitor administrative activities.
 
 ---
 
-## 11. Administrator Role Assignment
+## 11. Roles and administration
 
 Assigned an administrative role to a user.
 
 **Screenshot**
 
-![Role Assignment](screenshots/11-role-assignment.png)
+![Role Assignment](screenshots/11-roles-and-administration.png)
 
 ---
 
-## 12. Guest User Management
+## 12. Groups Overview
 
 Invited and managed an external guest (B2B) user.
 
 **Screenshot**
 
-![Guest User](screenshots/12-guest-user.png)
+![Guest User](screenshots/12-groups-overview.png)
 
 ---
 
